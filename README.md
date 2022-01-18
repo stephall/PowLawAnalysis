@@ -1,0 +1,1 @@
+This project serves as showcase of how to use Bayesian Inference analysis for the analysis of power laws.

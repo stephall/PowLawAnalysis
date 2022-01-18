@@ -1,0 +1,8 @@
+# Don't track the iPython checkpoints
+.ipynb_checkpoints
+
+# Don't track .DS_Store (macOS specific directory)
+.DS_Store
+
+# Don't track the 'traces' directory as its content might become huge over time
+traces
